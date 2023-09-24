@@ -64,7 +64,7 @@
 			</div>			
 			 <div id="loc-info">
 			
-			NYC
+			NYC<br />
 			703-829-0532<br />
 			azuckers@gmu.edu
 
