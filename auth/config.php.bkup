@@ -1,0 +1,5 @@
+<?php
+define('APP_URL', 'https://aramzuckerscharff.com/auth/');
+define('APP_KEY', '98daf709290940824e4b34ae3f056e2f647166a06d12fdb0fb2e7e2037b930b5');
+define('USER_HASH', '131330dc84709cf1674e9c89e1bd7b63');
+define('USER_URL', 'https://www.aramzuckerscharff.com/');
