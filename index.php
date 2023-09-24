@@ -64,8 +64,7 @@
 			</div>			
 			 <div id="loc-info">
 			
-			10919 Santa Clara Dr<br />
-			Fairfax, VA 22030<br />
+			NYC
 			703-829-0532<br />
 			azuckers@gmu.edu
 
@@ -404,7 +403,9 @@
      <td width="283" valign="top">
      <b>Experience with Tools and Software Platforms</b>
           <ul>
-            <li>Adobe Creative Suite</li>
+            <li>Node</li>
+			<li>AWS</li>
+			<li>Adobe Creative Suite</li>
             <li>WordPress</li>
             <li>WordPressMU/MS</li>
             <li>Drupal</li>
